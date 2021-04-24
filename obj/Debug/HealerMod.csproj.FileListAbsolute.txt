@@ -1,0 +1,12 @@
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\obj\Debug\HealerMod.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\obj\Debug\HealerMod.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\bin\Debug\HealerMod.dll
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\bin\Debug\HealerMod.pdb
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\bin\Debug\tModLoaderServer.exe
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\obj\Debug\HealerMod.csproj.CopyComplete
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\obj\Debug\HealerMod.dll
+C:\Users\Daniel\Documents\My Games\Terraria\ModLoader\Mod Sources\HealerMod\obj\Debug\HealerMod.pdb
