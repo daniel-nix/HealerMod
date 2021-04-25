@@ -2,7 +2,7 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
-    <StartProgram>F:\SteamLibrary\steamapps\common\Terraria\Terraria.exe</StartProgram>
+    <StartProgram>F:\SteamLibrary\steamapps\common\tModLoader\tModLoader.exe</StartProgram>
     <StartWorkingDirectory>F:\SteamLibrary\steamapps\common\Terraria</StartWorkingDirectory>
   </PropertyGroup>
 </Project>

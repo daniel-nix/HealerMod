@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCDMWKjAll1kq2TjGoMO9AoSIKWad75sUmL+8pMNkYyjJZdoinUirN1/G2oZamuAObALimy0HWoszb1iACsubA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\HealerMod\\HealerMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
